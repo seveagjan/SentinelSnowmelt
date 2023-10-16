@@ -22,7 +22,7 @@ For each year, the available image data with a maximum cloud cover of 20% betwee
 To enhance the information content in regard to snow cover, the NDSI was computed. The Normalised Differenced Water Index (NDWI) was calculated to exclude the Fjord area in the North-West of the study region. The timing of snowmelt was considered to be occurred when the NDSI remains below 0.4 for two consecutive acquisitions. This rule was applied to each pixel of the image to produce a map of the spatial distribution of the day-of-the-year (DOY) of complete snowmelt.
 
 
-References
+**References**
 
 Frei, E.R., G.H.R. Henry (2022): Long-term effects of snowmelt timing and climate warming on phenology, growth, and reproductive effort of Arctic tundra plant species. Arctic Science 8: 700–721. dx.doi.org/10.1139/as-2021-0028
 
