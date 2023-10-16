@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "plot_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "X": 519306.79184765799, "Y": 8680017.0343415495, "Plot ID": "LUZ1", "Lat": 78.19272222, "Long": 15.84524167, "org": "usann", "type": "luz" }, "geometry": { "type": "Point", "coordinates": [ 15.84524167, 78.19272222 ] } },
+{ "type": "Feature", "properties": { "X": 519260.276356605, "Y": 8679884.9065093007, "Plot ID": "LUZ2", "Lat": 78.19154444, "Long": 15.84312222, "org": "usann", "type": "luz" }, "geometry": { "type": "Point", "coordinates": [ 15.84312222, 78.191544439999987 ] } },
+{ "type": "Feature", "properties": { "X": 519378.63103801297, "Y": 8679780.2738961708, "Plot ID": "LUZ3", "Lat": 78.19059167, "Long": 15.84823611, "org": "usann", "type": "luz" }, "geometry": { "type": "Point", "coordinates": [ 15.84823611, 78.190591669999975 ] } },
+{ "type": "Feature", "properties": { "X": 520637.08342721203, "Y": 8678651.0109273009, "Plot ID": "DUP1", "Lat": 78.18030556, "Long": 15.90255, "org": "usann", "type": "dup" }, "geometry": { "type": "Point", "coordinates": [ 15.90255, 78.180305560000036 ] } },
+{ "type": "Feature", "properties": { "X": 520478.906365423, "Y": 8678588.7418730091, "Plot ID": "DUP2", "Lat": 78.17976944, "Long": 15.89559167, "org": "usann", "type": "dup" }, "geometry": { "type": "Point", "coordinates": [ 15.89559167, 78.179769440000015 ] } },
+{ "type": "Feature", "properties": { "X": 520548.089731574, "Y": 8678621.7377040293, "Plot ID": "DUP3", "Lat": 78.18005556, "Long": 15.89863889, "org": "usann", "type": "dup" }, "geometry": { "type": "Point", "coordinates": [ 15.898638889999988, 78.180055560000028 ] } },
+{ "type": "Feature", "properties": { "X": 522156.103199662, "Y": 8677722.8227653299, "Plot ID": "CAS1", "Lat": 78.17177222, "Long": 15.9683, "org": "usann", "type": "cas" }, "geometry": { "type": "Point", "coordinates": [ 15.9683, 78.171772220000022 ] } },
+{ "type": "Feature", "properties": { "X": 517741.72915233398, "Y": 8679693.0663108192, "Plot ID": "CAS2", "Lat": 78.19001389, "Long": 15.77654444, "org": "usann", "type": "cas" }, "geometry": { "type": "Point", "coordinates": [ 15.776544439999983, 78.19001388999996 ] } },
+{ "type": "Feature", "properties": { "X": 523801.29970384698, "Y": 8677626.4076996408, "Plot ID": "DRY1", "Lat": 78.17065556, "Long": 16.04011111, "org": "usann", "type": "dry" }, "geometry": { "type": "Point", "coordinates": [ 16.04011111, 78.170655559999972 ] } },
+{ "type": "Feature", "properties": { "X": 518085.48673293297, "Y": 8680284.5676916409, "Plot ID": "DRY2", "Lat": 78.19527222000001, "Long": 15.79193889, "org": "usann", "type": "dry" }, "geometry": { "type": "Point", "coordinates": [ 15.79193889000001, 78.195272220000049 ] } },
+{ "type": "Feature", "properties": { "X": 517934.55095806299, "Y": 8680242.2295694295, "Plot ID": "DRY3", "Lat": 78.19491111000001, "Long": 15.78530556, "org": "usann", "type": "dry" }, "geometry": { "type": "Point", "coordinates": [ 15.785305559999987, 78.194911110000035 ] } },
+{ "type": "Feature", "properties": { "X": 523630.0, "Y": 8677560.0, "Plot ID": "SNOWBED-R1", "Lat": null, "Long": null, "org": "sann", "type": "snowbed" }, "geometry": { "type": "Point", "coordinates": [ 16.032575763065235, 78.170087788169866 ] } },
+{ "type": "Feature", "properties": { "X": 523848.0, "Y": 8677690.0, "Plot ID": "CAS-R2", "Lat": null, "Long": null, "org": "sann", "type": "cas" }, "geometry": { "type": "Point", "coordinates": [ 16.042200931833914, 78.17121783766423 ] } },
+{ "type": "Feature", "properties": { "X": 523942.0, "Y": 8677718.0, "Plot ID": "DRY-R4", "Lat": null, "Long": null, "org": "sann", "type": "dry" }, "geometry": { "type": "Point", "coordinates": [ 16.046329879652625, 78.171453663335882 ] } },
+{ "type": "Feature", "properties": { "X": 524172.0, "Y": 8677754.0, "Plot ID": "DUP-R5", "Lat": null, "Long": null, "org": "sann", "type": "dup" }, "geometry": { "type": "Point", "coordinates": [ 16.056407668760833, 78.171739172147241 ] } },
+{ "type": "Feature", "properties": { "X": 519008.0, "Y": 8680756.0, "Plot ID": "SAL-R6", "Lat": null, "Long": null, "org": "sann", "type": "salix-poa" }, "geometry": { "type": "Point", "coordinates": [ 15.832622688996986, 78.199381313459298 ] } },
+{ "type": "Feature", "properties": { "X": 519655.0, "Y": 8679964.0, "Plot ID": "DUP-R7", "Lat": null, "Long": null, "org": "sann", "type": "dup" }, "geometry": { "type": "Point", "coordinates": [ 15.860449696129482, 78.192201605280957 ] } },
+{ "type": "Feature", "properties": { "X": 521167.0, "Y": 8679224.0, "Plot ID": "DUP-EQU-R8", "Lat": null, "Long": null, "org": "sann", "type": "dup-equisetum" }, "geometry": { "type": "Point", "coordinates": [ 15.926118107082951, 78.185364961318314 ] } },
+{ "type": "Feature", "properties": { "X": 519280.0, "Y": 8679794.0, "Plot ID": "LUZ-R9", "Lat": null, "Long": null, "org": "sann", "type": "luz" }, "geometry": { "type": "Point", "coordinates": [ 15.843928133899849, 78.190727422031344 ] } },
+{ "type": "Feature", "properties": { "X": 523055.0, "Y": 8677405.0, "Plot ID": "CAS-R10", "Lat": null, "Long": null, "org": "sann", "type": "cas" }, "geometry": { "type": "Point", "coordinates": [ 16.007338199587362, 78.16878890788 ] } }
+]
+}
