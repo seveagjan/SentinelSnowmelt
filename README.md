@@ -1,12 +1,12 @@
 # SentinelSnowmelt
 
-The objective of this project is to map the timing of snowmelt in spring for the Adventdalen valley in Svalbard with Sentinel-2 time series data and compare it across different Tundra vegetation community types.
+The objective of this project is to map the timing of snowmelt in spring for the Adventdalen valley in Svalbard with Sentinel-2 time series data.
 
 ![](Images/dji_intro_img.JPG)
 
 **Background and motivation**
 
-Snow is a typical feature in Arctic Tundra ecosystems that essentially governs environmental processes including surface energy balance, nutrient and water availability for soil, plant and animal communities. In addition, the latter one has a major effect on the timing of plant phenological phases. In Tundra ecosystems, the timing of snowmelt marks the start of the growing season. Its spatial distribution is mainly depending on wind conditions and temperature during springtime next to topography (Frei a. Henry, 2022). Therefore, the timing of snowmelt is considered as an important indicator of climate change and ecosystem state (Stendardi et al. 2022). This work makes use of the Sentinel-2 satellite data archive in the Google Earth Engine to map the timing of snowmelt in an Arctic Tundra environment by applying a threshold-ruled approach to Normalised Differenced Snow Index (NDSI) time series. The resulting maps are then used to analyse potential variations between different vegetation communities. 
+Snow is a typical feature in Arctic Tundra ecosystems that essentially governs environmental processes including surface energy balance, nutrient and water availability for soil, plant and animal communities. In addition, the latter one has a major effect on the timing of plant phenological phases. In Tundra ecosystems, the timing of snowmelt marks the start of the growing season. Its spatial distribution is mainly depending on wind conditions and temperature during springtime next to topography (Frei a. Henry, 2022). Therefore, the timing of snowmelt is considered as an important indicator of climate change and ecosystem state (Stendardi et al. 2022). This work makes use of the Sentinel-2 satellite data archive in the Google Earth Engine to map the timing of snowmelt in an Arctic Tundra environment by applying a threshold-ruled approach to Normalised Differenced Snow Index (NDSI) time series.
 
 **Study Area**
 
